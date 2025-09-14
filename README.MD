@@ -108,7 +108,7 @@ Review the `results.txt` file to see which accounts are flagged for sharing.
 
 ### Step 4: Apply Sanctions (Optional)
 
-**⚠️ Warning:** This script automates keyboard and mouse input. It will take control of your computer to type commands. Use it responsibly and only when you are sure about the sanctions.
+**Warning:** This script automates keyboard and mouse input. It will take control of your computer to type commands. Use it responsibly and only when you are sure about the sanctions.
 
 1.  Open the `sanctions.py` file and edit the `shared` list to include the user IDs you wish to warn.
 2.  Run the script from your terminal.
